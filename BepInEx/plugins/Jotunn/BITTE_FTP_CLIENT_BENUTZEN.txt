@@ -1,0 +1,11 @@
+Sehr geehrter Kunde,
+
+die Saves dieses Spiels liegen in einem versteckten Folder (.config/) und können daher nur mit einem FTP Client gesehen, bearbeitet oder heruntergeladen werden.
+Wir empfehlen FileZilla als Client: (https://filezilla-project.org/).
+
+--
+
+Dear Customer,
+
+the savegames of this game are in a hidden folder (.config /) and can therefore only be viewed, edited or downloaded with an FTP client of your choice.
+We recommend FileZilla as your FTP Tool: (https://filezilla-project.org/).
